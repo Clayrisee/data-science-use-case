@@ -26,3 +26,18 @@ Hitung nilai RFM untuk setiap pelanggan berdasarkan id. Penjelasan tentang RFM d
 2. Identify optimal number of segments using dendogram dan elbow method.
 3. Buat final segmentasi market dan label dari customer dan masuk kemana segment tersebut.
 4. Explain secara intuitively
+
+
+# Important Link
+
+Link Colab:
+https://colab.research.google.com/drive/1mKI2NKvsooW80v1affMVD4pLe_zf2Fmd?usp=sharing
+
+Link Github:
+https://github.com/Clayrisee/data-science-use-case/tree/main/market-segmentation
+
+Resource Link:
+https://mailchimp.com/resources/rfm-analysis/#:~:text=RFM%2C%20also%20known%20as%20RFM,monetary%20value%20of%20a%20transaction.
+https://archive.ics.uci.edu/dataset/352/online+retail
+https://www.kdnuggets.com/2023/03/3-ways-merge-pandas-dataframes.html
+https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
